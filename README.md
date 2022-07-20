@@ -12,8 +12,8 @@
 
 [![en](https://img.shields.io/badge/ZagSystems-Facebook-blue.svg)](https://facebook.com/ZagSystems)
 
-<p align="left"> اللغة الانجليزية - اللغة العربية</p>
+<p align="left"> اللغة الانجليزية </p>
 
-[![ar](https://img.shields.io/badge/Arabic-green.svg)](README.md)     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;           [![en](https://img.shields.io/badge/English-blue.svg)](README.en.md)
+[![en](https://img.shields.io/badge/English-blue.svg)](README.en.md)
 
 
