@@ -1,4 +1,5 @@
 # AntiFireAndGasProject_Tech4Geeks
+This Project Provides A simple Smoke and Gas Leak alarm with minimal Cost and simple implementation
 <p align="left">هذا المشروع يوفر شرح لتصميم  و  تنفيذ انذار غى حالة حدوث ادخنة الحرائق و تسريبات الغاز</p>
 <p align="left">لمتابعة كل أعمال tech4geeks على قناة ZagSystems</p>
 
@@ -12,8 +13,8 @@
 
 [![en](https://img.shields.io/badge/ZagSystems-Facebook-blue.svg)](https://facebook.com/ZagSystems)
 
-<p align="left"> اللغة الانجليزية - اللغة العربية</p>
+<p align="left"> Arabic </p>
 
-[![ar](https://img.shields.io/badge/Arabic-green.svg)](README.md)     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;           [![en](https://img.shields.io/badge/English-blue.svg)](README.en.md)
+[![ar](https://img.shields.io/badge/Arabic-green.svg)](README.md) 
 
 
